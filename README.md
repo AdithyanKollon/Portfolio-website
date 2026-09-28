@@ -2,11 +2,10 @@
 
 A modern, high-performance developer portfolio built with HTML, CSS, and Vanilla JavaScript. The design emphasizes a premium dark theme, glassmorphism, smooth scroll animations, and responsive layouts to showcase software engineering skills, projects, and professional experience.
 
-![Portfolio Preview](./assets/portfolio-preview.png) *(Note: Add a screenshot of your portfolio to the `assets` folder and name it `portfolio-preview.png`)*
-
+![Portfolio Preview](./assets/portfolio-preview.png) 
 ## 🚀 Live Demo
 
-[[Insert Link to Live Portfolio Here]](https://portfolio-website-omega-seven-30.vercel.app/)
+(https://portfolio-website-omega-seven-30.vercel.app/)
 
 ## ✨ Features
 
