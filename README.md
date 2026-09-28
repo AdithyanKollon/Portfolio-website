@@ -74,9 +74,6 @@ To view the project, simply clone the repository and use a local development ser
 
 Hi, I'm **K Adithyan**, a Backend Developer and AI Systems Builder based in India. Currently pursuing my IT degree at VIT Vellore, I focus on building real-world developer products, scalable cloud infrastructure, and intelligent RAG systems.
 
-*   [GitHub Profile](https://github.com/AdithyanKollon)
-*   [LinkedIn Profile](https://linkedin.com/in/YOUR_LINKEDIN_URL) *(Remember to update this in the HTML)*
-*   [LeetCode Profile](https://leetcode.com/u/YOUR_LEETCODE_USERNAME) *(Remember to update this in the HTML)*
 
 ## 📄 License
 
